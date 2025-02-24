@@ -1,0 +1,473 @@
+Day_x,Artist(s)_x,Album_x,Record label(s)_x,Entering chart position_x,Month,Day_y,Artist(s)_y,Album_y,Record label(s)_y,Entering chart position_y,Day_x,Artist(s)_x,Album_x,Record label(s)_x,Ref._x,Day_y,Artist(s)_y,Album_y,Record label(s)_y,Ref._y,Day_x,Artist(s)_x,Album_x,Record label(s)_x,Ref._x,Day_y,Artist(s)_y,Album_y,Record label(s)_y,Ref._y,Artist(s),Album,Record label(s),Ref.
+1.0,03 Greedo,2025: The Streetz is Over Wiit,Self-released[13],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+1.0,Duwap Kaine,Nobody Is Coming To Save You,TAF[14],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+3.0,Boldy James & RichGains,Murder During Drug Traffic,Self-released[15],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+3.0,Jon Connor,Food for the Soul,Self-released[16],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+3.0,Lil Baby,WHAM,Quality Control Music[17],Debuted at No. 1 on the Billboard 200,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+3.0,Various artists,Death Row Revue,"Death Row Records, Gamma[16]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+5.0,Bad Bunny,Debí Tirar Más Fotos,Rimas[18],Debuted at No. 2 on the Billboard 200,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+8.0,Ransom,Cabrini Green,"Black Soprano Family, Momentum[19]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+10.0,Diamond D,The Diam Piece 3: Duo,Dymond Mine Records[20],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+10.0,Rilès,Survival Mode,Self-released[21],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+10.0,Rio da Yung OG,Rio Free,#Boyz[22],Debuted at No. 157 on the Billboard 200,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+10.0,Skiifall,Lovers Till I'm Gone,Self-released[23],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+10.0,The Heatmakerz,The Anti-Social Experiment,Self-released[19],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+10.0,Ziak,Essonne History X,"Errro, Chrome Castle[24]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+11.0,Wiley,Boom Bap Vol 4,Self-released[25],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+17.0,Busta Rhymes,Dragon Season... The Awakening,Conglomerate[26],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+17.0,Logic,Aquarius III,BMG Rights Management[27],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+17.0,Mac Miller,Balloonerism,Warner[28],Debuted at No. 3 on the Billboard 200,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+17.0,Mick Jenkins,Type Shit,Self-released[29],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+17.0,Myss Keta,Myss Keta,"Island Records, Universal Music Italia[30]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+17.0,OMB Peezy,Drifting Away,"Overkill, Hitmaker[19]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+17.0,Philthy Rich,"Real, Rich & Respected",FOD[19],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+17.0,Riff Raff,Welcome to Shaolin,"Castles of Chrome, Black 17[19]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+17.0,Verbal Jint,Happy End,Otherside[31],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+17.0,Wu-Syndicate,Wu-Rona Virus,Self-released[32],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+21.0,YGTUT,Wash My Hands,The House[33],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+22.0,24hrs & King Kobi,24hrs on Saturn,NORP[34],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+23.0,Da Uzi,Original Gangsta,Warner France[35],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+23.0,Zillionaire Doe,D Boi Dreams,"CMG, Interscope[36]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+24.0,Boldy James,Permanent Ink,Royal House[37],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+24.0,Central Cee,Can't Rush Greatness,Columbia[38],Debuted at No. 1 on the UK Albums Chart Debuted at No. 9 on the Billboard 200,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+24.0,Ghais Guevara,Goyard Ibn Said,Fat Possum[39],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+24.0,Homeboy Sandman,Rich 2.5,Dirty Looks[40],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+24.0,Hunxho,For Us,300[41],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+24.0,Jeshi,Airbag Woke Me Up,Because[42],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+24.0,Jordan Adetunji,A Jaguar's Dream,"300 Entertainment, Warner UK[43]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+24.0,Krizbeatz,Daddy Daycare,"Streets Legend, ONErpm[44]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+24.0,Moka Only & Reckonize Real,More Vibes & B-Sides,Real Deff[35],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+24.0,OsamaSon,Jump Out,"Atlantic Records, Motion Music[45]",Debuted at No. 151 on the Billboard 200,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+24.0,Uncle Murda,Murda He Wrote,"ATM, Empire[33]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+24.0,Young Franco,It's Franky Baby!,Neon[46],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+24.0,Youssoupha,Amour Supreme,"99 Revolution, AllPoints[47][non-primary source needed]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+27.0,Pink Siifu,Black'!Antique,Dynamite Hill[48],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+30.0,Young Dro & Zaytoven,10 Piece Hot,Grand Hustle[49],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+31.0,BabyTron,Song Wars,"Hip Hop Lab, Empire[50]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+31.0,Canibus,The Almighty Era V2: The Final Chapter,"Q&A Logistics, 1332 Records[51]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+31.0,EST Gee,I Aint Feeling You,"CMG, Interscope[52]",Debuted at No. 97 on the Billboard 200,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+31.0,Iniko,The Awakening,"Columbia, Audio Angel[53]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+31.0,Madrox,More Music You Don't Wanna Hear From Someone You Barely Like,Majik Ninja Entertainment[54],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+31.0,Madvillain,Madvillainy Demos,Stones Throw[50],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+31.0,Mike,Showbiz!,10k[55],.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+31.0,The Weeknd,Hurry Up Tomorrow,"XO, Republic[56]",Debuted at No. 1 on the Billboard 200,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+31.0,V Don,Sent For,"Black Soprano Family, Roc Nation Distribution[53]",.,January,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,4.0,Nino Paid,Love Me As I Am,"Signal, Columbia[57]",.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,4.0,Nino Paid,Love Me As I Am,"Signal, Columbia[57]",.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,4.0,Nino Paid,Love Me As I Am,"Signal, Columbia[57]",.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,4.0,Nino Paid,Love Me As I Am,"Signal, Columbia[57]",.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,4.0,Nino Paid,Love Me As I Am,"Signal, Columbia[57]",.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,4.0,Nino Paid,Love Me As I Am,"Signal, Columbia[57]",.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,4.0,Nino Paid,Love Me As I Am,"Signal, Columbia[57]",.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,4.0,Nino Paid,Love Me As I Am,"Signal, Columbia[57]",.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,4.0,Nino Paid,Love Me As I Am,"Signal, Columbia[57]",.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,4.0,Nino Paid,Love Me As I Am,"Signal, Columbia[57]",.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,4.0,Nino Paid,Love Me As I Am,"Signal, Columbia[57]",.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,4.0,Nino Paid,Love Me As I Am,"Signal, Columbia[57]",.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,4.0,Nino Paid,Love Me As I Am,"Signal, Columbia[57]",.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Krept and Konan,Young Kingz II,Play Dirty[58],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Krept and Konan,Young Kingz II,Play Dirty[58],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Krept and Konan,Young Kingz II,Play Dirty[58],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Krept and Konan,Young Kingz II,Play Dirty[58],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Krept and Konan,Young Kingz II,Play Dirty[58],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Krept and Konan,Young Kingz II,Play Dirty[58],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Krept and Konan,Young Kingz II,Play Dirty[58],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Krept and Konan,Young Kingz II,Play Dirty[58],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Krept and Konan,Young Kingz II,Play Dirty[58],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Krept and Konan,Young Kingz II,Play Dirty[58],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Krept and Konan,Young Kingz II,Play Dirty[58],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Krept and Konan,Young Kingz II,Play Dirty[58],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Krept and Konan,Young Kingz II,Play Dirty[58],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,"Larry June, 2 Chainz & The Alchemist",Life is Beautiful,"The Freeminded Records, ALC Records, Empire[59]",.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,"Larry June, 2 Chainz & The Alchemist",Life is Beautiful,"The Freeminded Records, ALC Records, Empire[59]",.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,"Larry June, 2 Chainz & The Alchemist",Life is Beautiful,"The Freeminded Records, ALC Records, Empire[59]",.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,"Larry June, 2 Chainz & The Alchemist",Life is Beautiful,"The Freeminded Records, ALC Records, Empire[59]",.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,"Larry June, 2 Chainz & The Alchemist",Life is Beautiful,"The Freeminded Records, ALC Records, Empire[59]",.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,"Larry June, 2 Chainz & The Alchemist",Life is Beautiful,"The Freeminded Records, ALC Records, Empire[59]",.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,"Larry June, 2 Chainz & The Alchemist",Life is Beautiful,"The Freeminded Records, ALC Records, Empire[59]",.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,"Larry June, 2 Chainz & The Alchemist",Life is Beautiful,"The Freeminded Records, ALC Records, Empire[59]",.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,"Larry June, 2 Chainz & The Alchemist",Life is Beautiful,"The Freeminded Records, ALC Records, Empire[59]",.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,"Larry June, 2 Chainz & The Alchemist",Life is Beautiful,"The Freeminded Records, ALC Records, Empire[59]",.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,"Larry June, 2 Chainz & The Alchemist",Life is Beautiful,"The Freeminded Records, ALC Records, Empire[59]",.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,"Larry June, 2 Chainz & The Alchemist",Life is Beautiful,"The Freeminded Records, ALC Records, Empire[59]",.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,"Larry June, 2 Chainz & The Alchemist",Life is Beautiful,"The Freeminded Records, ALC Records, Empire[59]",.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Montana 700,700 Reasons,"Remain Solid, 300 Entertainment[60]",.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Montana 700,700 Reasons,"Remain Solid, 300 Entertainment[60]",.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Montana 700,700 Reasons,"Remain Solid, 300 Entertainment[60]",.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Montana 700,700 Reasons,"Remain Solid, 300 Entertainment[60]",.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Montana 700,700 Reasons,"Remain Solid, 300 Entertainment[60]",.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Montana 700,700 Reasons,"Remain Solid, 300 Entertainment[60]",.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Montana 700,700 Reasons,"Remain Solid, 300 Entertainment[60]",.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Montana 700,700 Reasons,"Remain Solid, 300 Entertainment[60]",.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Montana 700,700 Reasons,"Remain Solid, 300 Entertainment[60]",.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Montana 700,700 Reasons,"Remain Solid, 300 Entertainment[60]",.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Montana 700,700 Reasons,"Remain Solid, 300 Entertainment[60]",.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Montana 700,700 Reasons,"Remain Solid, 300 Entertainment[60]",.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Montana 700,700 Reasons,"Remain Solid, 300 Entertainment[60]",.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Robb Banks,Tha Leak 3,Self-released[61],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Robb Banks,Tha Leak 3,Self-released[61],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Robb Banks,Tha Leak 3,Self-released[61],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Robb Banks,Tha Leak 3,Self-released[61],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Robb Banks,Tha Leak 3,Self-released[61],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Robb Banks,Tha Leak 3,Self-released[61],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Robb Banks,Tha Leak 3,Self-released[61],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Robb Banks,Tha Leak 3,Self-released[61],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Robb Banks,Tha Leak 3,Self-released[61],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Robb Banks,Tha Leak 3,Self-released[61],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Robb Banks,Tha Leak 3,Self-released[61],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Robb Banks,Tha Leak 3,Self-released[61],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Robb Banks,Tha Leak 3,Self-released[61],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Soulja Boy,The Influence,SODMG[61],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Soulja Boy,The Influence,SODMG[61],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Soulja Boy,The Influence,SODMG[61],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Soulja Boy,The Influence,SODMG[61],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Soulja Boy,The Influence,SODMG[61],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Soulja Boy,The Influence,SODMG[61],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Soulja Boy,The Influence,SODMG[61],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Soulja Boy,The Influence,SODMG[61],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Soulja Boy,The Influence,SODMG[61],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Soulja Boy,The Influence,SODMG[61],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Soulja Boy,The Influence,SODMG[61],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Soulja Boy,The Influence,SODMG[61],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Soulja Boy,The Influence,SODMG[61],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Sy Ari da Kid,The Last Shadow In The Shade,"No I In Team Records, Cinq Music Group[61]",.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Sy Ari da Kid,The Last Shadow In The Shade,"No I In Team Records, Cinq Music Group[61]",.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Sy Ari da Kid,The Last Shadow In The Shade,"No I In Team Records, Cinq Music Group[61]",.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Sy Ari da Kid,The Last Shadow In The Shade,"No I In Team Records, Cinq Music Group[61]",.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Sy Ari da Kid,The Last Shadow In The Shade,"No I In Team Records, Cinq Music Group[61]",.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Sy Ari da Kid,The Last Shadow In The Shade,"No I In Team Records, Cinq Music Group[61]",.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Sy Ari da Kid,The Last Shadow In The Shade,"No I In Team Records, Cinq Music Group[61]",.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Sy Ari da Kid,The Last Shadow In The Shade,"No I In Team Records, Cinq Music Group[61]",.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Sy Ari da Kid,The Last Shadow In The Shade,"No I In Team Records, Cinq Music Group[61]",.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Sy Ari da Kid,The Last Shadow In The Shade,"No I In Team Records, Cinq Music Group[61]",.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Sy Ari da Kid,The Last Shadow In The Shade,"No I In Team Records, Cinq Music Group[61]",.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Sy Ari da Kid,The Last Shadow In The Shade,"No I In Team Records, Cinq Music Group[61]",.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Sy Ari da Kid,The Last Shadow In The Shade,"No I In Team Records, Cinq Music Group[61]",.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Tyga,NSFW,Last Kings[62],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Tyga,NSFW,Last Kings[62],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Tyga,NSFW,Last Kings[62],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Tyga,NSFW,Last Kings[62],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Tyga,NSFW,Last Kings[62],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Tyga,NSFW,Last Kings[62],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Tyga,NSFW,Last Kings[62],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Tyga,NSFW,Last Kings[62],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Tyga,NSFW,Last Kings[62],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Tyga,NSFW,Last Kings[62],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Tyga,NSFW,Last Kings[62],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Tyga,NSFW,Last Kings[62],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,Tyga,NSFW,Last Kings[62],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,ZelooperZ & Real Bad Man,Dear Psilocybin,Real Bad Man Records[63],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,ZelooperZ & Real Bad Man,Dear Psilocybin,Real Bad Man Records[63],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,ZelooperZ & Real Bad Man,Dear Psilocybin,Real Bad Man Records[63],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,ZelooperZ & Real Bad Man,Dear Psilocybin,Real Bad Man Records[63],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,ZelooperZ & Real Bad Man,Dear Psilocybin,Real Bad Man Records[63],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,ZelooperZ & Real Bad Man,Dear Psilocybin,Real Bad Man Records[63],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,ZelooperZ & Real Bad Man,Dear Psilocybin,Real Bad Man Records[63],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,ZelooperZ & Real Bad Man,Dear Psilocybin,Real Bad Man Records[63],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,ZelooperZ & Real Bad Man,Dear Psilocybin,Real Bad Man Records[63],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,ZelooperZ & Real Bad Man,Dear Psilocybin,Real Bad Man Records[63],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,ZelooperZ & Real Bad Man,Dear Psilocybin,Real Bad Man Records[63],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,ZelooperZ & Real Bad Man,Dear Psilocybin,Real Bad Man Records[63],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,7.0,ZelooperZ & Real Bad Man,Dear Psilocybin,Real Bad Man Records[63],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,A$AP Twelvyy,I Did More With Less (V1),Two Twelve Technologies[64],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,A$AP Twelvyy,I Did More With Less (V1),Two Twelve Technologies[64],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,A$AP Twelvyy,I Did More With Less (V1),Two Twelve Technologies[64],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,A$AP Twelvyy,I Did More With Less (V1),Two Twelve Technologies[64],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,A$AP Twelvyy,I Did More With Less (V1),Two Twelve Technologies[64],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,A$AP Twelvyy,I Did More With Less (V1),Two Twelve Technologies[64],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,A$AP Twelvyy,I Did More With Less (V1),Two Twelve Technologies[64],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,A$AP Twelvyy,I Did More With Less (V1),Two Twelve Technologies[64],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,A$AP Twelvyy,I Did More With Less (V1),Two Twelve Technologies[64],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,A$AP Twelvyy,I Did More With Less (V1),Two Twelve Technologies[64],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,A$AP Twelvyy,I Did More With Less (V1),Two Twelve Technologies[64],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,A$AP Twelvyy,I Did More With Less (V1),Two Twelve Technologies[64],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,A$AP Twelvyy,I Did More With Less (V1),Two Twelve Technologies[64],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,Capella Grey,U Miss Me Yet?,"Allepac the Family, 10K Projects[64]",.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,Capella Grey,U Miss Me Yet?,"Allepac the Family, 10K Projects[64]",.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,Capella Grey,U Miss Me Yet?,"Allepac the Family, 10K Projects[64]",.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,Capella Grey,U Miss Me Yet?,"Allepac the Family, 10K Projects[64]",.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,Capella Grey,U Miss Me Yet?,"Allepac the Family, 10K Projects[64]",.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,Capella Grey,U Miss Me Yet?,"Allepac the Family, 10K Projects[64]",.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,Capella Grey,U Miss Me Yet?,"Allepac the Family, 10K Projects[64]",.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,Capella Grey,U Miss Me Yet?,"Allepac the Family, 10K Projects[64]",.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,Capella Grey,U Miss Me Yet?,"Allepac the Family, 10K Projects[64]",.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,Capella Grey,U Miss Me Yet?,"Allepac the Family, 10K Projects[64]",.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,Capella Grey,U Miss Me Yet?,"Allepac the Family, 10K Projects[64]",.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,Capella Grey,U Miss Me Yet?,"Allepac the Family, 10K Projects[64]",.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,Capella Grey,U Miss Me Yet?,"Allepac the Family, 10K Projects[64]",.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,P-Lo,For the Soil,"Everywhere Like Air, Golden State Entertainment, Empire[65]",.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,P-Lo,For the Soil,"Everywhere Like Air, Golden State Entertainment, Empire[65]",.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,P-Lo,For the Soil,"Everywhere Like Air, Golden State Entertainment, Empire[65]",.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,P-Lo,For the Soil,"Everywhere Like Air, Golden State Entertainment, Empire[65]",.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,P-Lo,For the Soil,"Everywhere Like Air, Golden State Entertainment, Empire[65]",.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,P-Lo,For the Soil,"Everywhere Like Air, Golden State Entertainment, Empire[65]",.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,P-Lo,For the Soil,"Everywhere Like Air, Golden State Entertainment, Empire[65]",.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,P-Lo,For the Soil,"Everywhere Like Air, Golden State Entertainment, Empire[65]",.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,P-Lo,For the Soil,"Everywhere Like Air, Golden State Entertainment, Empire[65]",.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,P-Lo,For the Soil,"Everywhere Like Air, Golden State Entertainment, Empire[65]",.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,P-Lo,For the Soil,"Everywhere Like Air, Golden State Entertainment, Empire[65]",.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,P-Lo,For the Soil,"Everywhere Like Air, Golden State Entertainment, Empire[65]",.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,12.0,P-Lo,For the Soil,"Everywhere Like Air, Golden State Entertainment, Empire[65]",.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,13.0,Black Milk & Fat Ray,Food from the Gods,Computer Ugly[64],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,13.0,Black Milk & Fat Ray,Food from the Gods,Computer Ugly[64],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,13.0,Black Milk & Fat Ray,Food from the Gods,Computer Ugly[64],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,13.0,Black Milk & Fat Ray,Food from the Gods,Computer Ugly[64],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,13.0,Black Milk & Fat Ray,Food from the Gods,Computer Ugly[64],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,13.0,Black Milk & Fat Ray,Food from the Gods,Computer Ugly[64],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,13.0,Black Milk & Fat Ray,Food from the Gods,Computer Ugly[64],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,13.0,Black Milk & Fat Ray,Food from the Gods,Computer Ugly[64],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,13.0,Black Milk & Fat Ray,Food from the Gods,Computer Ugly[64],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,13.0,Black Milk & Fat Ray,Food from the Gods,Computer Ugly[64],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,13.0,Black Milk & Fat Ray,Food from the Gods,Computer Ugly[64],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,13.0,Black Milk & Fat Ray,Food from the Gods,Computer Ugly[64],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,13.0,Black Milk & Fat Ray,Food from the Gods,Computer Ugly[64],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Bartees Strange,Horror,4AD[66],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Bartees Strange,Horror,4AD[66],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Bartees Strange,Horror,4AD[66],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Bartees Strange,Horror,4AD[66],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Bartees Strange,Horror,4AD[66],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Bartees Strange,Horror,4AD[66],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Bartees Strange,Horror,4AD[66],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Bartees Strange,Horror,4AD[66],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Bartees Strange,Horror,4AD[66],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Bartees Strange,Horror,4AD[66],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Bartees Strange,Horror,4AD[66],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Bartees Strange,Horror,4AD[66],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Bartees Strange,Horror,4AD[66],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Brother Ali,Satisfied Soul,Mello Music Group[67],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Brother Ali,Satisfied Soul,Mello Music Group[67],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Brother Ali,Satisfied Soul,Mello Music Group[67],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Brother Ali,Satisfied Soul,Mello Music Group[67],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Brother Ali,Satisfied Soul,Mello Music Group[67],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Brother Ali,Satisfied Soul,Mello Music Group[67],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Brother Ali,Satisfied Soul,Mello Music Group[67],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Brother Ali,Satisfied Soul,Mello Music Group[67],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Brother Ali,Satisfied Soul,Mello Music Group[67],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Brother Ali,Satisfied Soul,Mello Music Group[67],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Brother Ali,Satisfied Soul,Mello Music Group[67],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Brother Ali,Satisfied Soul,Mello Music Group[67],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Brother Ali,Satisfied Soul,Mello Music Group[67],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,D. Savage,We Love D. Savage,Empire[64],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,D. Savage,We Love D. Savage,Empire[64],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,D. Savage,We Love D. Savage,Empire[64],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,D. Savage,We Love D. Savage,Empire[64],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,D. Savage,We Love D. Savage,Empire[64],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,D. Savage,We Love D. Savage,Empire[64],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,D. Savage,We Love D. Savage,Empire[64],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,D. Savage,We Love D. Savage,Empire[64],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,D. Savage,We Love D. Savage,Empire[64],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,D. Savage,We Love D. Savage,Empire[64],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,D. Savage,We Love D. Savage,Empire[64],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,D. Savage,We Love D. Savage,Empire[64],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,D. Savage,We Love D. Savage,Empire[64],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Drake & PartyNextDoor,Some Sexy Songs 4 U,"OVO Sound, Republic Records[68]",.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Drake & PartyNextDoor,Some Sexy Songs 4 U,"OVO Sound, Republic Records[68]",.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Drake & PartyNextDoor,Some Sexy Songs 4 U,"OVO Sound, Republic Records[68]",.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Drake & PartyNextDoor,Some Sexy Songs 4 U,"OVO Sound, Republic Records[68]",.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Drake & PartyNextDoor,Some Sexy Songs 4 U,"OVO Sound, Republic Records[68]",.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Drake & PartyNextDoor,Some Sexy Songs 4 U,"OVO Sound, Republic Records[68]",.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Drake & PartyNextDoor,Some Sexy Songs 4 U,"OVO Sound, Republic Records[68]",.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Drake & PartyNextDoor,Some Sexy Songs 4 U,"OVO Sound, Republic Records[68]",.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Drake & PartyNextDoor,Some Sexy Songs 4 U,"OVO Sound, Republic Records[68]",.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Drake & PartyNextDoor,Some Sexy Songs 4 U,"OVO Sound, Republic Records[68]",.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Drake & PartyNextDoor,Some Sexy Songs 4 U,"OVO Sound, Republic Records[68]",.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Drake & PartyNextDoor,Some Sexy Songs 4 U,"OVO Sound, Republic Records[68]",.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Drake & PartyNextDoor,Some Sexy Songs 4 U,"OVO Sound, Republic Records[68]",.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Dro Kenji,Love Kills,10K Projects[69],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Dro Kenji,Love Kills,10K Projects[69],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Dro Kenji,Love Kills,10K Projects[69],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Dro Kenji,Love Kills,10K Projects[69],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Dro Kenji,Love Kills,10K Projects[69],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Dro Kenji,Love Kills,10K Projects[69],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Dro Kenji,Love Kills,10K Projects[69],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Dro Kenji,Love Kills,10K Projects[69],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Dro Kenji,Love Kills,10K Projects[69],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Dro Kenji,Love Kills,10K Projects[69],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Dro Kenji,Love Kills,10K Projects[69],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Dro Kenji,Love Kills,10K Projects[69],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Dro Kenji,Love Kills,10K Projects[69],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Jacquees & DeJ Loaf,Fuck A Friendzone 2,"Yellow World, FYB Records[70]",.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Jacquees & DeJ Loaf,Fuck A Friendzone 2,"Yellow World, FYB Records[70]",.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Jacquees & DeJ Loaf,Fuck A Friendzone 2,"Yellow World, FYB Records[70]",.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Jacquees & DeJ Loaf,Fuck A Friendzone 2,"Yellow World, FYB Records[70]",.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Jacquees & DeJ Loaf,Fuck A Friendzone 2,"Yellow World, FYB Records[70]",.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Jacquees & DeJ Loaf,Fuck A Friendzone 2,"Yellow World, FYB Records[70]",.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Jacquees & DeJ Loaf,Fuck A Friendzone 2,"Yellow World, FYB Records[70]",.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Jacquees & DeJ Loaf,Fuck A Friendzone 2,"Yellow World, FYB Records[70]",.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Jacquees & DeJ Loaf,Fuck A Friendzone 2,"Yellow World, FYB Records[70]",.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Jacquees & DeJ Loaf,Fuck A Friendzone 2,"Yellow World, FYB Records[70]",.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Jacquees & DeJ Loaf,Fuck A Friendzone 2,"Yellow World, FYB Records[70]",.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Jacquees & DeJ Loaf,Fuck A Friendzone 2,"Yellow World, FYB Records[70]",.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Jacquees & DeJ Loaf,Fuck A Friendzone 2,"Yellow World, FYB Records[70]",.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,John Glacier,Like A Ribbon,Young[71],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,John Glacier,Like A Ribbon,Young[71],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,John Glacier,Like A Ribbon,Young[71],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,John Glacier,Like A Ribbon,Young[71],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,John Glacier,Like A Ribbon,Young[71],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,John Glacier,Like A Ribbon,Young[71],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,John Glacier,Like A Ribbon,Young[71],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,John Glacier,Like A Ribbon,Young[71],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,John Glacier,Like A Ribbon,Young[71],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,John Glacier,Like A Ribbon,Young[71],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,John Glacier,Like A Ribbon,Young[71],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,John Glacier,Like A Ribbon,Young[71],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,John Glacier,Like A Ribbon,Young[71],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,OhGeesy,Paid N Full,Atlantic[72],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,OhGeesy,Paid N Full,Atlantic[72],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,OhGeesy,Paid N Full,Atlantic[72],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,OhGeesy,Paid N Full,Atlantic[72],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,OhGeesy,Paid N Full,Atlantic[72],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,OhGeesy,Paid N Full,Atlantic[72],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,OhGeesy,Paid N Full,Atlantic[72],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,OhGeesy,Paid N Full,Atlantic[72],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,OhGeesy,Paid N Full,Atlantic[72],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,OhGeesy,Paid N Full,Atlantic[72],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,OhGeesy,Paid N Full,Atlantic[72],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,OhGeesy,Paid N Full,Atlantic[72],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,OhGeesy,Paid N Full,Atlantic[72],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,They.,Love.Jones,Drink Sum Wtr[73],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,They.,Love.Jones,Drink Sum Wtr[73],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,They.,Love.Jones,Drink Sum Wtr[73],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,They.,Love.Jones,Drink Sum Wtr[73],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,They.,Love.Jones,Drink Sum Wtr[73],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,They.,Love.Jones,Drink Sum Wtr[73],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,They.,Love.Jones,Drink Sum Wtr[73],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,They.,Love.Jones,Drink Sum Wtr[73],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,They.,Love.Jones,Drink Sum Wtr[73],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,They.,Love.Jones,Drink Sum Wtr[73],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,They.,Love.Jones,Drink Sum Wtr[73],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,They.,Love.Jones,Drink Sum Wtr[73],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,They.,Love.Jones,Drink Sum Wtr[73],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Westside Gunn,12,Griselda Records[74],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Westside Gunn,12,Griselda Records[74],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Westside Gunn,12,Griselda Records[74],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Westside Gunn,12,Griselda Records[74],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Westside Gunn,12,Griselda Records[74],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Westside Gunn,12,Griselda Records[74],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Westside Gunn,12,Griselda Records[74],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Westside Gunn,12,Griselda Records[74],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Westside Gunn,12,Griselda Records[74],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Westside Gunn,12,Griselda Records[74],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Westside Gunn,12,Griselda Records[74],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Westside Gunn,12,Griselda Records[74],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,14.0,Westside Gunn,12,Griselda Records[74],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,.,Yung Bleu,What Makes Us Human,Moon Boy Music[64],.,17,Eem Triplin,Melody of a Memory,RCA,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,.,Yung Bleu,What Makes Us Human,Moon Boy Music[64],.,21,Morray,Long Story Short,Empire,[75],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,.,Yung Bleu,What Makes Us Human,Moon Boy Music[64],.,21,Ransom & Dave East,The Final Call,"FTD, Momentum",[61],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,.,Yung Bleu,What Makes Us Human,Moon Boy Music[64],.,21,Roddy Ricch,The Navy Album,Atlantic Records,[76],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,.,Yung Bleu,What Makes Us Human,Moon Boy Music[64],.,21,Saint Jhn,Festival Season,Godd Complexx,[77],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,.,Yung Bleu,What Makes Us Human,Moon Boy Music[64],.,21,Smif-n-Wessun,Infinity,"Bucktown USA, Duck Down Music",[78],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,.,Yung Bleu,What Makes Us Human,Moon Boy Music[64],.,28,DeeBaby,Ms. Salazar,"Already Platinum, Create Music Group",[79],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,.,Yung Bleu,What Makes Us Human,Moon Boy Music[64],.,28,G-Eazy,Helium,RCA,[80],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,.,Yung Bleu,What Makes Us Human,Moon Boy Music[64],.,28,Jim Jones,At the Church Steps,Hitmaker Music Group,[69],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,.,Yung Bleu,What Makes Us Human,Moon Boy Music[64],.,28,Lisa,Alter Ego,"Lloud, RCA",[81],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,.,Yung Bleu,What Makes Us Human,Moon Boy Music[64],.,28,Reason,I Love You Again,"Do More Records, 195 Oak",[82],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,.,Yung Bleu,What Makes Us Human,Moon Boy Music[64],.,TBA,Key Glock,Glockaveli,Paper Route Empire,[83],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,February,.,Yung Bleu,What Makes Us Human,Moon Boy Music[64],.,TBA,Lil Baby,Dominique,Quality Control Music,[84],.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,March,.,.,.,.,.,.,.,.,.,.,7.0,Capo Lee & Big Zuu,Signed & Delivered,Legacy Living,[85],.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,March,.,.,.,.,.,.,.,.,.,.,7.0,De La Soul,Clear Lake Audiotorium (Re-release),Chrysalis Records,[86],.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,March,.,.,.,.,.,.,.,.,.,.,7.0,Lil Durk,Deep Thoughts,Alamo,[87],.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,March,.,.,.,.,.,.,.,.,.,.,7.0,Tokimonsta,Eternal Reverie,Young Art,[88],.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,March,.,.,.,.,.,.,.,.,.,.,14.0,Clipping,Dead Channel Sky,Sub Pop,[89],.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,March,.,.,.,.,.,.,.,.,.,.,21.0,Goya Gumbani,Warlord of the Weejuns,Ghostly International,[90],.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,March,.,.,.,.,.,.,.,.,.,.,28.0,Busta Rhymes,Dragon Season,Conglomerate,[91],.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,March,.,.,.,.,.,.,.,.,.,.,28.0,Yasiin Bey & The Alchemist,Forensics,TBA,[92],.,.,.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,April,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,4,Infinity Knives & Brian Ennals,A City Drowned in God's Black Tears,Self-released,[93][non-primary source needed],.,.,.,.,.,.,.,.,.
+.,.,.,.,.,April,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,11,Bliss n Eso,The Moon (The Light Side),"Flight Deck, Mushroom",[94],.,.,.,.,.,.,.,.,.
+.,.,.,.,.,April,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,12,Wu-Tang Clan & Mathematics,"Black Samson, The Bastard Swordsman",Ruffnation Entertainment,[95],.,.,.,.,.,.,.,.,.
+.,.,.,.,.,April,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,25,Fly Anakin,(The) Forever Dream,Lex Records,[96],.,.,.,.,.,.,.,.,.
+.,.,.,.,.,April,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,TBA,Travis Scott,TBA,"Cactus Jack, Epic",[97],.,.,.,.,.,.,.,.,.
+.,.,.,.,.,June,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,6.0,Lil Wayne,Tha Carter VI,"Young Money Entertainment, Republic Records",[98],.,.,.,.
+.,.,.,.,.,June,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,15.0,Kanye West,Bully,Self-released,[99],.,.,.,.
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,André 3000,TBA,TBA,[100]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Anuel AA & Ozuna,Los Dioses 2,"Real Hasta la Muerte, Aura Music",[101]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,A$AP Rocky,Don't Be Dumb,"AWGE, Polo Grounds",[102]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Baby Keem,Child with Wolves,"PGLang, Columbia Records",[103]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,B.G.,Heart of the Streets 3,Chopper Brick Records,[104]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Big Sean & The Alchemist,TBA,TBA,[105]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Boosie Badazz & B.G.,TBA,TBA,[106]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Burna Boy,No Sign of Weakness,"Spaceship, Bad Habit, Atlantic",[107]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cardi B,TBA,TBA,[108]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Chance the Rapper,Star Line Gallery,Self-released,[109]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Clipse,Let God Sort Em Out,Def Jam,[110]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Conway the Machine & J.U.S.T.I.C.E. League,TBA,Empire Distribution,[111]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Coolio,Long Live Coolio,Tommy Boy Records,[112][needs update]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Damon Dash & Freeway,365,TBA,[113]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Denzel Curry,Unlocked 2.0,"PH Recordings, Loma Vista",[114][needs update]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Denzel Curry,Designed By Angels,"PH Recordings, Loma Vista",[115][needs update]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,DJ Khaled,Aalam of God,"We The Best Music, Def Jam Recordings",[116]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,DJ Premier & Roc Marciano,TBA,TBA,[117]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,DJ Quik,TBA,Ingrooves,[118]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,DMC,TBA,TBA,[119]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Doechii,TBA,TDE,[120]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Dres & J Dilla,TBA,Stones Throw,[121]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,E-40,Rule of Thumb: Rule 2,Heavy On The Grind Entertainment,[122]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Fabolous,SOUL Tape 4,"Def Jam Recordings, Roc Nation",[123]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Flipmode Squad,TBA,TBA,[124]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Freddie Gibbs & Madlib,Montana,TBA,[125]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Griselda,WWCD 2,Griselda Records,[126]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hot Boys,TBA,Cash Money Records,[127]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,J. Cole,The Fall Off,Dreamville,[128]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ja Rule,TBA,"M-PIRE Records, Def Jam Records",[129]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Jadakiss,TBA,"SoRaspy, Roc Nation, Def Jam",[130]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Jay Rock,Eastside Johnny,"Top Dawg Entertainment, Interscope Records",[131]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,JID,Forever & A Day,Dreamville,[132]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,JID & Metro Boomin,JIDTRO,"Dreamville, Boominati Worldwide",[133]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Jim Jones,TBA,Hitmaker Music Group,[134]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Juelz Santana & DJ Drama,We In Motion,"Def Jam Recordings, Diplomat Records, Generation Now, MNRK Music Group",[135]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Juicy J & BeatKing,Ratchet P,TBA,[136]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ken Carson,More Chaos,Opium,[137]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Kid Cudi,The Soundtrack of Moon Man,"Wicked Awesome, Republic",[138]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,K.O,I Think You Spoke Too Soon,"Sony Music Entertainment Africa, Skhanda Republic",[139]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,KSI,Caught In Two Minds,"Atlantic, Warner",[140]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Leikeli47,Lei Keli ft. 47 / For Promotional Use Only,"Acrylic, Hardcover, Thirty Tigers",[141]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Lil Baby & Young Thug,TBA,"Glass Window, Wolfpack, Quality Control, Motown, YSL, 300, Atlantic",[142]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Lil Nas X,TBA,Columbia,[143]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Logic,Phonkadelic,"BobbyBoy Records, Three Oh One Productions, BMG",[144]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Logic & Juicy J,Live and In Color,"Trippy Music, BobbyBoy Records",[145]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ludacris,TBA,"Disturbing Tha Peace, Def Jam Recordings",[146]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mac Miller & Madlib,Maclib,"Stones Throw, Rostrum",[147]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mach-Hommy & Conductor Williams,TBA,TBA,[148]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Meek Mill,Dream Chasers Vol. 1: La Familia,"Dream Chasers Records, Atlantic Records",[149]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mike Will Made It,R3SET,Eardrummers Records,[150]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mobb Deep,TBA,TBA,[151]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Nas & DJ Premier,TBA,Mass Appeal,[152]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Nav,On My Way 2 Rexdale,"XO, Republic",[153]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Nelly,TBA,"Derrty, Motown Records",[154]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,N.E.R.D.,TBA,I Am Other,[155]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Nicki Minaj,Pink Friday 3,Young Money,[156]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Offset,Kiari,Motown Records,[157]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Pharoahe Monch,External Affairs,TBA,[158]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Playboi Carti,I Am Music,"AWGE, Interscope Records",[159]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Project Pat & Juicy J,Them Goats,TBA,[136]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Pusha T & DJ Drama,TBA,Heir Wave Music,[160]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Rick Ross,Champagne Moments,"Maybach Music Group, Def Jam Recordings",[161]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Remy Ma,TBA,TBA,[162]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Run the Jewels,Run the Jewels 5,"Jewel Runners, BMG",[163][needs update]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Russ,Chomp 3,Diemon Records,[164]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Saba & No I.D.,From the Private Collection of Saba & No I.D.,ARTium,[165]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Saweetie,Pretty Bitch Music,"Artistry, Warner",[166]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,ScarLip,Scars and Stripes,Epic Records,[167]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Skepta,Knife and Fork,Boy Better Know,[168]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Slick Rick,TBA,Def Jam Recordings,[169]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Smino,She Always Dancing,"Zero Fatigue, Motown",[170]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Snoop Dogg & Dave East,TBA,Death Row,[171]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Styles P & Black Thought,TBA,"D-Block, Def Jam Recordings",[172]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sylvan LaCue,Nobody's Coming to Save You,LaCue Enterprises,[173]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Takeoff,TBA,"Quality Control Music, Motown Records",[174][needs update]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Tay-K,TBA,TBA,[175]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,The D.O.C.,TBA,Death Row Records,[176]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,The Lox,TBA,"D-Block, Ruff Ryders",[177]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,The Roots,TBA,TBA,[178]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,T.I.,Kill the King,Grand Hustle Records,[179]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,T.I.,Kiss the King,Grand Hustle Records,[179]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Trae tha Truth,Angel,Self-released,[180]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Treach,TBA,"Tommy Boy, Arista",[181]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Westside Gunn,Flygod Is An Awesome God III,Griselda Records,[182]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Will Smith,Dance In Your Darkest Moments,"Interscope Records, Columbia Records, RCA Records",[183]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wiz Khalifa,Wizzlemania,"Taylor Gang, Asylum Records",[184]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wiz Khalifa,Kush & O.J. 2,"Taylor Gang, Asylum Records",[185]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Xzibit,Kingmaker,Greenback Records,[186]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Your Old Droog & Madlib,TBA,Madlib Invazion,[187]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Yung Lean,Jonatan,World Affairs,[188]
+.,.,.,.,.,UnscheduledandTBA,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Yung Miami,Yams,"Quality Control Music, Motown Records",[189]
